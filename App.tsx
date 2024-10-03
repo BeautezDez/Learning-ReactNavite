@@ -4,6 +4,7 @@ import { NavigationContainer } from '@react-navigation/native'
 import HoaNavigator from './src/Navigator/HoaNavigator'
 import MainNavigator from './src/Navigator/MainNavigator'
 
+
 const App = () => {
   return (
     <>
